@@ -1,0 +1,6 @@
+{
+  "name": "Noor Study Book & AI",
+  "description": "A private, luxurious Gold & White syllabus study book with complete chapter notes, lecture planner, interactive puzzles/games, assignment writer, and Gemini AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
